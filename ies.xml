@@ -1,2 +1,439 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ies/>
+<ies>
+  <nombre>IES Público HUANTA</nombre>
+  <programas_estudio>
+    <programa_estudio>
+      <nombre>DISEÑO Y PROGRAMACIÓN WEB</nombre>
+      <modulos>
+        <modulo>
+          <nombre>ANALISIS Y DISEÑO DE SISTEMAS WEB</nombre>
+          <periodos>
+            <periodo>
+              <nombre>I</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Fundamentos de programación</unidad_didactica>
+                <unidad_didactica>Redes e internet</unidad_didactica>
+                <unidad_didactica>Análisis y diseño de sistemas</unidad_didactica>
+                <unidad_didactica>Introducción de base de datos</unidad_didactica>
+                <unidad_didactica>Arquitectura de computadoras</unidad_didactica>
+                <unidad_didactica>Comunicación oral</unidad_didactica>
+                <unidad_didactica>Aplicaciones en internet</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>II</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Ofimática</unidad_didactica>
+                <unidad_didactica>Interpretación y producción de textos</unidad_didactica>
+                <unidad_didactica>Metodología de desarrollo de software</unidad_didactica>
+                <unidad_didactica>Programación orientada a objetos</unidad_didactica>
+                <unidad_didactica>Arquitectura de servidores web</unidad_didactica>
+                <unidad_didactica>Aplicaciones sistematizadas</unidad_didactica>
+                <unidad_didactica>Taller de base de datos</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>DESARROLLO DE APLICACIONES WEB</nombre>
+          <periodos>
+            <periodo>
+              <nombre>III</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Administración de base de datos</unidad_didactica>
+                <unidad_didactica>Programación de aplicaciones web</unidad_didactica>
+                <unidad_didactica>Diseño de interfaces web</unidad_didactica>
+                <unidad_didactica>Pruebas de software</unidad_didactica>
+                <unidad_didactica>Inglés para la comunicación oral</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>IV</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Desarrollo de entornos web</unidad_didactica>
+                <unidad_didactica>Programación de soluciones web</unidad_didactica>
+                <unidad_didactica>Proyectos de software</unidad_didactica>
+                <unidad_didactica>Seguridad en aplicaciones web</unidad_didactica>
+                <unidad_didactica>Comprensión y redacción en inglés</unidad_didactica>
+                <unidad_didactica>Comportamiento ético</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>DISEÑO DE SERVICIOS WEB</nombre>
+          <periodos>
+            <periodo>
+              <nombre>V</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Programación de aplicaciones móviles</unidad_didactica>
+                <unidad_didactica>Marketing digital</unidad_didactica>
+                <unidad_didactica>Diseño de soluciones web</unidad_didactica>
+                <unidad_didactica>Gestión y administración de sitios web</unidad_didactica>
+                <unidad_didactica>Diagramación digital</unidad_didactica>
+                <unidad_didactica>Solución de problemas</unidad_didactica>
+                <unidad_didactica>Oportunidades de negocios</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>VI</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Plataforma de servicios web</unidad_didactica>
+                <unidad_didactica>Ilustración y gráfica digital</unidad_didactica>
+                <unidad_didactica>Administración de servidores web</unidad_didactica>
+                <unidad_didactica>Comercio electrónico</unidad_didactica>
+                <unidad_didactica>Plan de negocios</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+      </modulos>
+    </programa_estudio>
+    <programa_estudio>
+      <nombre>ENFERMERÍA TÉCNICA</nombre>
+      <modulos>
+        <modulo>
+          <nombre>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</nombre>
+          <periodos>
+            <periodo>
+              <nombre>I</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Salud comunitaria</unidad_didactica>
+                <unidad_didactica>Promoción de la salud</unidad_didactica>
+                <unidad_didactica>Educación para la salud</unidad_didactica>
+                <unidad_didactica>Asistencia en inmunizaciones</unidad_didactica>
+                <unidad_didactica>Seguridad y salud en el trabajo</unidad_didactica>
+                <unidad_didactica>Comunicación oral</unidad_didactica>
+                <unidad_didactica>Aplicaciones en internet</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>II</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Epidemiología</unidad_didactica>
+                <unidad_didactica>Salud en desastres naturales</unidad_didactica>
+                <unidad_didactica>Prevención en salud pública</unidad_didactica>
+                <unidad_didactica>Anatomía y fisiología humana</unidad_didactica>
+                <unidad_didactica>Fundamentos de bioseguridad</unidad_didactica>
+                <unidad_didactica>Interpretación y producción de textos</unidad_didactica>
+                <unidad_didactica>Ofimática</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</nombre>
+          <periodos>
+            <periodo>
+              <nombre>III</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Asistencia básica hospitalaria</unidad_didactica>
+                <unidad_didactica>Administración de medicamentos</unidad_didactica>
+                <unidad_didactica>Documentación en salud</unidad_didactica>
+                <unidad_didactica>Microbiología y muestras biológicas</unidad_didactica>
+                <unidad_didactica>Inglés para la comunicación oral</unidad_didactica>
+                <unidad_didactica>Comunicación efectiva en Quechua</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>IV</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Atención en urgencias y emergencias</unidad_didactica>
+                <unidad_didactica>Procedimientos invasivos y no invasivos</unidad_didactica>
+                <unidad_didactica>Bioestadística en salud</unidad_didactica>
+                <unidad_didactica>Dietas y nutrición</unidad_didactica>
+                <unidad_didactica>Comprensión y redacción en inglés</unidad_didactica>
+                <unidad_didactica>Medio ambiente y desarrollo sostenible</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</nombre>
+          <periodos>
+            <periodo>
+              <nombre>V</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Salud materno neonatal</unidad_didactica>
+                <unidad_didactica>Atención del niño y adolescente</unidad_didactica>
+                <unidad_didactica>Atención al usuario quirúrgico</unidad_didactica>
+                <unidad_didactica>Atención del adulto y adulto mayor</unidad_didactica>
+                <unidad_didactica>Técnicas de resolución de conflictos</unidad_didactica>
+                <unidad_didactica>Comportamiento ético</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>VI</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Medicina alternativa</unidad_didactica>
+                <unidad_didactica>Fisioterapia y rehabilitación</unidad_didactica>
+                <unidad_didactica>Salud mental</unidad_didactica>
+                <unidad_didactica>Atención del paciente en estado crítico</unidad_didactica>
+                <unidad_didactica>Innovación tecnológica</unidad_didactica>
+                <unidad_didactica>Plan de negocios</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+      </modulos>
+    </programa_estudio>
+    <programa_estudio>
+      <nombre>MECATRÓNICA</nombre>
+      <modulos>
+        <modulo>
+          <nombre>MANTENIMIENTO DE VEHÍCULOS CONVENCIONALES Y CON ASISTENCIA ELECTRÓNICA</nombre>
+          <periodos>
+            <periodo>
+              <nombre>I</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Mantenimiento automotriz</unidad_didactica>
+                <unidad_didactica>Mecánica de taller y metrología automotriz</unidad_didactica>
+                <unidad_didactica>Mantenimiento preventivo de la suspensión, dirección y frenos</unidad_didactica>
+                <unidad_didactica>Mantenimiento preventivo del sistema eléctrico</unidad_didactica>
+                <unidad_didactica>Seguridad laboral</unidad_didactica>
+                <unidad_didactica>Comunicación oral</unidad_didactica>
+                <unidad_didactica>Aplicaciones en internet</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>II</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Dibujo mecánico CAD automotriz</unidad_didactica>
+                <unidad_didactica>Hidráulica y neumática</unidad_didactica>
+                <unidad_didactica>Cálculos aplicados a los sistemas de suspensión, dirección y frenos</unidad_didactica>
+                <unidad_didactica>Mantenimiento y reparación del sistema de suspensión y dirección con asistencia electrónica</unidad_didactica>
+                <unidad_didactica>Mantenimiento del sistema de frenos con asistencia electrónica</unidad_didactica>
+                <unidad_didactica>Interpretación y producción de textos</unidad_didactica>
+                <unidad_didactica>Ofimática</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>MANTENIMIENTO DE SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS AUTOMOTRICES</nombre>
+          <periodos>
+            <periodo>
+              <nombre>III</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Sistemas de luces</unidad_didactica>
+                <unidad_didactica>Sistema de carga y arranque</unidad_didactica>
+                <unidad_didactica>Sistema de encendido automotriz con asistencia electrónica</unidad_didactica>
+                <unidad_didactica>Sistema de implementos, seguridad y confort</unidad_didactica>
+                <unidad_didactica>Dibujo eléctrico y electrónico automotriz</unidad_didactica>
+                <unidad_didactica>Comportamiento ético</unidad_didactica>
+                <unidad_didactica>Inglés para la comunicación oral</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>IV</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Sistema de transmisión automática y transferencia</unidad_didactica>
+                <unidad_didactica>Mecanismo diferencial</unidad_didactica>
+                <unidad_didactica>Mecanismo de embrague y caja de velocidades manual</unidad_didactica>
+                <unidad_didactica>Comprensión y redacción en inglés</unidad_didactica>
+                <unidad_didactica>Estrategias para la solución de problemas</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>MANTENIMIENTO DEL SISTEMA DE TRANSMISIÓN DE VEHÍCULOS CON ASISTENCIA ELECTRÓNICA</nombre>
+          <periodos>
+            <periodo>
+              <nombre>V</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Motores de combustión interna Otto</unidad_didactica>
+                <unidad_didactica>Inyección electrónica Otto</unidad_didactica>
+                <unidad_didactica>Sistema CAN BUS y unidades de control electrónico</unidad_didactica>
+                <unidad_didactica>Cálculos aplicados al motor de combustión interna</unidad_didactica>
+                <unidad_didactica>Oportunidades de negocio</unidad_didactica>
+                <unidad_didactica>Fundamentos de innovación tecnológica</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>VI</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Motores de combustión interna Diesel con asistencia electrónica</unidad_didactica>
+                <unidad_didactica>Sistema de inyección Diesel con gestión electrónica</unidad_didactica>
+                <unidad_didactica>Afinamiento electrónico de MCI</unidad_didactica>
+                <unidad_didactica>Conversión a combustibles alternos GLP / GNV</unidad_didactica>
+                <unidad_didactica>Plan de negocios</unidad_didactica>
+                <unidad_didactica>Proyecto de innovación tecnológica</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+      </modulos>
+    </programa_estudio>
+    <programa_estudio>
+      <nombre>INDUSTRIAS ALIMENTARIAS</nombre>
+      <modulos>
+        <modulo>
+          <nombre>PROCESAMIENTO PRIMARIO DE PRODUCTOS ALIMENTARIOS</nombre>
+          <periodos>
+            <periodo>
+              <nombre>I</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Fundamentos de la industria alimentaria</unidad_didactica>
+                <unidad_didactica>Microbiología general</unidad_didactica>
+                <unidad_didactica>Química general</unidad_didactica>
+                <unidad_didactica>Buenas prácticas de manipulación</unidad_didactica>
+                <unidad_didactica>Higiene y saneamiento industrial</unidad_didactica>
+                <unidad_didactica>Comunicación oral</unidad_didactica>
+                <unidad_didactica>Aplicaciones en internet</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>II</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Microbiología de alimentos</unidad_didactica>
+                <unidad_didactica>Química orgánica aplicada</unidad_didactica>
+                <unidad_didactica>Control de calidad de materias primas</unidad_didactica>
+                <unidad_didactica>Operaciones unitarias básicas</unidad_didactica>
+                <unidad_didactica>Ofimática</unidad_didactica>
+                <unidad_didactica>Interpretación y producción de textos</unidad_didactica>
+                <unidad_didactica>Seguridad alimentaria</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>TRANSFORMACIÓN DE PRODUCTOS ALIMENTARIOS</nombre>
+          <periodos>
+            <periodo>
+              <nombre>III</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Tecnología de productos cárnicos</unidad_didactica>
+                <unidad_didactica>Tecnología de frutas y hortalizas</unidad_didactica>
+                <unidad_didactica>Tecnología de cereales y derivados</unidad_didactica>
+                <unidad_didactica>Análisis físico-químico de alimentos</unidad_didactica>
+                <unidad_didactica>Inglés para la comunicación oral</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>IV</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Nutrición y valor nutritivo de alimentos</unidad_didactica>
+                <unidad_didactica>Envasado y conservación de alimentos</unidad_didactica>
+                <unidad_didactica>Gestión de procesos alimentarios</unidad_didactica>
+                <unidad_didactica>Comprensión y redacción en inglés</unidad_didactica>
+                <unidad_didactica>Comportamiento ético</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>GESTIÓN Y DESARROLLO DE PRODUCTOS ALIMENTARIOS</nombre>
+          <periodos>
+            <periodo>
+              <nombre>V</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Formulación y desarrollo de nuevos productos</unidad_didactica>
+                <unidad_didactica>Control y aseguramiento de calidad</unidad_didactica>
+                <unidad_didactica>Gestión de plantas de alimentos</unidad_didactica>
+                <unidad_didactica>Análisis sensorial</unidad_didactica>
+                <unidad_didactica>Oportunidades de negocio</unidad_didactica>
+                <unidad_didactica>Solución de problemas</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>VI</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Normas y regulaciones alimentarias</unidad_didactica>
+                <unidad_didactica>Auditoría en calidad alimentaria</unidad_didactica>
+                <unidad_didactica>Proyecto de innovación en alimentos</unidad_didactica>
+                <unidad_didactica>Plan de negocios alimentarios</unidad_didactica>
+                <unidad_didactica>Tecnologías emergentes en alimentos</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+      </modulos>
+    </programa_estudio>
+    <programa_estudio>
+      <nombre>PRODUCCIÓN AGROPECUARIA</nombre>
+      <modulos>
+        <modulo>
+          <nombre>MANEJO DE LA PRODUCCIÓN AGROPECUARIA</nombre>
+          <periodos>
+            <periodo>
+              <nombre>I</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Fundamentos de producción agropecuaria</unidad_didactica>
+                <unidad_didactica>Manejo de herramientas y maquinarias</unidad_didactica>
+                <unidad_didactica>Botánica y fisiología vegetal</unidad_didactica>
+                <unidad_didactica>Zootecnia general</unidad_didactica>
+                <unidad_didactica>Comunicación oral</unidad_didactica>
+                <unidad_didactica>Aplicaciones en internet</unidad_didactica>
+                <unidad_didactica>Higiene y seguridad en el trabajo agrícola</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>II</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Agronomía general</unidad_didactica>
+                <unidad_didactica>Manejo de suelos</unidad_didactica>
+                <unidad_didactica>Sanidad vegetal</unidad_didactica>
+                <unidad_didactica>Acuicultura básica</unidad_didactica>
+                <unidad_didactica>Ofimática</unidad_didactica>
+                <unidad_didactica>Interpretación y producción de textos</unidad_didactica>
+                <unidad_didactica>Reproducción animal</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>MEJORAMIENTO Y MANEJO INTEGRAL DE LA PRODUCCIÓN</nombre>
+          <periodos>
+            <periodo>
+              <nombre>III</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Riego tecnificado</unidad_didactica>
+                <unidad_didactica>Producción de cultivos andinos</unidad_didactica>
+                <unidad_didactica>Manejo de pastos y forrajes</unidad_didactica>
+                <unidad_didactica>Producción de animales menores</unidad_didactica>
+                <unidad_didactica>Inglés para la comunicación oral</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>IV</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Producción de frutales</unidad_didactica>
+                <unidad_didactica>Nutrición y alimentación animal</unidad_didactica>
+                <unidad_didactica>Gestión de unidades agropecuarias</unidad_didactica>
+                <unidad_didactica>Comprensión y redacción en inglés</unidad_didactica>
+                <unidad_didactica>Comportamiento ético</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+        <modulo>
+          <nombre>GESTIÓN AGROPRODUCTIVA SOSTENIBLE</nombre>
+          <periodos>
+            <periodo>
+              <nombre>V</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Producción orgánica</unidad_didactica>
+                <unidad_didactica>Agroindustria rural</unidad_didactica>
+                <unidad_didactica>Manejo integrado de recursos naturales</unidad_didactica>
+                <unidad_didactica>Solución de problemas</unidad_didactica>
+                <unidad_didactica>Oportunidades de negocio</unidad_didactica>
+                <unidad_didactica>Sanidad e inocuidad agroalimentaria</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+            <periodo>
+              <nombre>VI</nombre>
+              <unidades_didacticas>
+                <unidad_didactica>Comercialización agropecuaria</unidad_didactica>
+                <unidad_didactica>Gestión de emprendimientos rurales</unidad_didactica>
+                <unidad_didactica>Proyecto de innovación agropecuaria</unidad_didactica>
+                <unidad_didactica>Plan de negocios agropecuario</unidad_didactica>
+                <unidad_didactica>Agroexportación</unidad_didactica>
+              </unidades_didacticas>
+            </periodo>
+          </periodos>
+        </modulo>
+      </modulos>
+    </programa_estudio>
+  </programas_estudio>
+</ies>

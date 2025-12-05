@@ -500,20 +500,63 @@ $xml = new DOMDocument('1.0','UTF-8');
 $xml->formatOutput = true;
 
 $et1 = $xml->createElement('ies');
-$xml-> appendChild($et1);
+$xml->appendChild($et1);
 
-
+// Agregar nombre de la IES directamente al nodo raíz
 $nombre_ies = $xml->createElement("nombre", $ies['nombre']);
+$et1->appendChild($nombre_ies);
+
+// Agregar programas de estudio directamente al nodo raíz
 $programas_ies = $xml->createElement("programas_estudio");
+$et1->appendChild($programas_ies);
 
 foreach ($ies["programas_estudio"] as $indice => $PEs) {
-    $num_pe = $xml->createElement("pe".$indice+1);
+    // Crear nodo para cada programa de estudio
+    $contenedor_pe = $xml->createElement("programa_estudio");
     $nombre_pe = $xml->createElement("nombre", $PEs['nombre']);
-    $num_pe->appendChild($nombre_pe);
-    $programas_ies->appendChild($nombre_pe);
-}
+    $contenedor_pe->appendChild($nombre_pe);
 
+    // Agregar módulos al programa de estudio
+    $cont_mods = $xml->createElement("modulos");
+    $contenedor_pe->appendChild($cont_mods);
+
+    foreach ($PEs['modulos'] as $indice_modulo => $Modulo) {
+        // Crear nodo para cada módulo
+        $contenedor_mod = $xml->createElement("modulo");
+        $non_mod = $xml->createElement("nombre", $Modulo['nombre']);
+        $contenedor_mod->appendChild($non_mod);
+
+        // Agregar periodos al módulo
+        $cont_periodos = $xml->createElement("periodos");
+        $contenedor_mod->appendChild($cont_periodos);
+
+        foreach ($Modulo['periodos'] as $indice_periodo => $Periodo) {
+            // Crear nodo para cada periodo
+            $contenedor_per = $xml->createElement("periodo");
+            $nom_per = $xml->createElement("nombre", $Periodo['nombre']);
+            $contenedor_per->appendChild($nom_per);
+
+            // Agregar unidades didácticas al periodo
+            $uds = $xml->createElement("unidades_didacticas");
+            foreach ($Periodo['unidades_didacticas'] as $indice_ud => $Ud) {
+                $nom_ud = $xml->createElement("unidad_didactica", $Ud);
+                $uds->appendChild($nom_ud);
+            }
+            $contenedor_per->appendChild($uds);
+
+            // Agregar periodo al contenedor de periodos
+            $cont_periodos->appendChild($contenedor_per);
+        }
+
+        // Agregar módulo al contenedor de módulos
+        $cont_mods->appendChild($contenedor_mod);
+    }
+
+    // Agregar programa de estudio al contenedor de programas
+    $programas_ies->appendChild($contenedor_pe);
+}
 
 $archivo = "ies.xml";
 $xml->save($archivo);
+
 ?>

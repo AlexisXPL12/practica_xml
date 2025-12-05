@@ -1,0 +1,3050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas_estudio>
+  <p1>
+    <codigo>DPW</codigo>
+    <nombre>DISEÑO Y PROGRAMACIÓN WEB</nombre>
+    <planes_estudio>
+      <plan1>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <perfil_egresado>El Profesional Técnico de Diseño y Programación Web, cuenta con habilidades para diseñar y desarrollar proyectos Web en medios digitales y multimediales. Propone soluciones creativas e innovadoras que respondan a las necesidades y requerimientos del cliente y a las exigencias del mercado laboral, así como coordinar la implementación de proyectos Web y posicionamiento SEO, aplicando estándares de seguridad. También, se desempeña con responsabilidad, eficiencia y valores orientados hacia la mejora continua.  Destaca por contar con habilidades para la innovación y generar buenas prácticas en la empresa orientadas al trabajo colaborativo, efectivo y ético. Se comunica de manera efectiva en español y en inglés en contextos sociales y empresariales. Además, utiliza herramientas informáticas que le permiten optimizar procesos de trabajo en forma individual y colaborativo , y la toma de decisiones; poniendo en evidencia actitudes para la resolución de problemas.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>ANALISIS Y DISEÑO DE SISTEMAS WEB</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE PROGRAMACIÓN</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>REDES E INTERNET</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ANÁLISIS Y DISEÑO DE SISTEMAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTRODUCCIÓN DE BASE DE DATOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ARQUITECTURA DE COMPUTADORAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>METODOLOGÍA DE DESARROLLO DE SOFTWARE</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROGRAMACIÓN ORIENTADA A OBJETOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ARQUITECTURA DE SERVIDORES WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES SISTEMATIZADAS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TALLER DE BASE DE DATOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>DESARROLLO DE APLICACIONES WEB</nombre>
+            <semestres>
+              <sem1>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>ADMINISTRACIÓN DE BASE DE DATOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROGRAMACIÓN DE APLICACIONES WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>DISEÑO DE INTERFACES WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRUEBAS DE SOFTWARE</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROYECTOS DE SOFTWARE</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPORTAMIENTO ÉTICO</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>DISEÑO DE SERVICIOS WEB</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MARKETING DIGITAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PLATAFORMA DE SERVICIOS WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ILUSTRACIÓN Y GRÁFICA DIGITAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ADMINISTRACIÓN DE SERVIDORES WEB</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMERCIO ELECTRÓNICO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod3>
+        </modulos>
+      </plan1>
+    </planes_estudio>
+  </p1>
+  <p2>
+    <codigo>ET</codigo>
+    <nombre>ENFERMERÍA TÉCNICA</nombre>
+    <planes_estudio>
+      <plan1>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <perfil_egresado>Profesional técnico de nivel superior, capacitado para implementar los cuidados de enfermería centrado en la persona, brindando la atención integral a la persona, familia y comunidad en los diferentes niveles de atención y prevención a lo largo de su ciclo vital, en un rol propio o de colaboración en el equipo multidisciplinario tomando en cuenta las normas vigentes y la ética profesional; es capaz de abordar  situaciones y resolver problemas relacionados a su actividad y de la organización, interactuando a través de una comunicación efectiva, el uso del idioma inglés, quechua y las tecnologías de la información y comunicación, considerando su entorno intercultural.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SALUD COMUNITARIA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DE ENFERMERÍA A LA FAMILIA Y COMUNIDAD </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROMOCIÓN DE LA SALUD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>EDUCACIÓN PARA LA SALUD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ASISTENCIA DE ENFERMERÍA EN INMUNIZACIONES </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN PARA LA PREVENCIÓN DE ENFERMEDADES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>EVALUACIÓN DE LA INTERVENCIÓN DE ENFERMERÍA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>EPIDEMIOLOGÍA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SALUD EN DESASTRES NATURALES  </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ACTIVIDADES DE ENFERMERÍA EN SALUD PÚBLICA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ANATOMÍA Y FISIOLOGÍA HUMANA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MATEMÁTICA APLICADA A LA ENFERMERÍA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TERMINOLOGIA EN SALUD HUMANA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</nombre>
+            <semestres>
+              <sem1>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>ASISTENCIA BÁSICA HOSPITALARIA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ADMINISTRACION DE MEDICAMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>DOCUMENTACION EN SALUD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MICROBIOLOGÍA Y MUESTRAS BIOLOGICAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>QUECHUA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DE ENFERMERÍA EN URGENCIAS Y EMERGENCIAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCEDIMIENTOS INVASIVOS, NO INVASIVOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ESTADÍSTICA APLICADA A LA ENFERMERÍA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>QUÍMICA APLICADA A LA ENFERMERÍA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTURA AMBIENTAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SALUD MATERNO NEONATAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DEL NIÑO Y ADOLESCENTE</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓNAL USUARIO QUIRÚRGICO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DEL ADULTO Y ADULTO MAYOR </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPORTAMIENTO ÉTICO</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MEDICINA ALTERNATIVA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DE EN SALUD MENTAL </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DEL PACIENTE EN ESTADO CRÍTICO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SOLUCIÓN DE PROBLEMAS E INNOVACIÓN</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod3>
+        </modulos>
+      </plan1>
+      <plan2>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <perfil_egresado>El profesional técnico en Enfermería Tecnica, es competente para brindar atención integral a la persona, familia y comunidad,  en actividades de  promoción y prevención de la salud, en diferentes etapas de la vida teniendo en cuenta las necesidades básicas de la salud y la normativa vigente; aplicando el enfoque  intercultural, de derechos y de género en diversos contextos. Se comunica de manera asertiva, efectiva, es capaz de abordar situaciones y resolver problemas  en su ambito laboral bajo principios éticos, se desempeña de manera colaborativa, mantiene una comunicación efectiva en el idioma quechua; evidencia dominio de las herramientas informaticas, identifica ideas de negocio,  es emprendedor e innovador y demostrando liderazgo.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SALUD COMUNITARIA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROMOCIÓN DE LA SALUD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>EDUCACIÓN PARA LA SALUD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ASISTENCIA EN INMUNIZACIONES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre> SEGURIDAD Y SALUD EN EL TRABAJO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>EPIDEMIOLOGÍA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SALUD EN DESASTRES NATURALES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PREVENCION EN SALUD PUBLICA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ANATOMÍA Y FISIOLOGÍA HUMANA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE BIOSEGURIDAD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y PRODUCCIÓN TEXTOS </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</nombre>
+            <semestres>
+              <sem1>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>ASISTENCIA BÁSICA HOSPITALARIA	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ADMINISTRACION DE MEDICAMENTOS	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>DOCUMENTACION EN SALUD	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MICROBIOLOGÍA Y MUESTRAS BIOLOGICAS	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN EFECTIVA EN QUECHUA 	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN EN URGENCIAS Y EMERGENCIAS	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCEDIMIENTOS INVASIVOS Y NO INVASIVOS	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>BIOESTADISTICA EN SALUD 	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>DIETAS Y NUTRICIÓN 	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE.	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SALUD MATERNO NEONATAL	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DEL NIÑO Y ADOLESCENTE	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN AL USUARIO QUIRÚRGICO	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DEL ADULTO Y ADULTO MAYOR 	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TÉCNICAS DE RESOLUCIÓN DE CONFLICTOS	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPORTAMIENTO ÉTICO	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MEDICINA ALTERNATIVA	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FISIOTERAPIA Y REHABILITACIÓN	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre> SALUD MENTAL	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ATENCIÓN DEL PACIENTE EN ESTADO CRÍTICO	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INNOVACIÓN TECNOLOGICA	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod3>
+        </modulos>
+      </plan2>
+    </planes_estudio>
+  </p2>
+  <p3>
+    <codigo>IA</codigo>
+    <nombre>INDUSTRIAS ALIMENTARIAS</nombre>
+    <planes_estudio>
+      <plan1>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <perfil_egresado>El profesional técnico de nivel superior del  programa de estudios de Industrias Alimentarias, es competente en el manejo de la materia prima, planificación y control de los procesos de producción de alimentos,  garantizando la inocuidad a través de la implementación de sistemas de gestión de calidad en un marco ético. Interactúa de manera colaborativa en su entorno laboral con una comunicación asertiva y manejo del idioma ingles para interpretar y comunicar instrucciones vinculados a su formación, así mismo utiliza las tecnologías de la información y comunicación, capaz de abordar problemas de su campo laboral a través de la  innovación y emprendimiento que conlleven a la mejora continua, promoviendo el cuidado del medio ambiente.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>MANEJO DE LA MATERIA PRIMA</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>RECEPCIÓN DE MATERIA PRIMA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ALMACENAMIENTO DE MATERIAS PRIMAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPOSICION DE LOS ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MAQUINARIA Y EQUIPOS EN LA RECEPCIÓN Y CLASIFICACIÓN DE LA MATERIA PRIMA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPERACIONES DE SELECCIÓN Y CLASIFICACIÓN</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPERACIONES DE ACONDICIONAMIENTO DE LA MATERIA PRIMA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE LAS OPERACIONES PRELIMINARES Y PRE TRATAMIENTO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SOLUCION DE PROBLEMAS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>PROCESO DE LA PRODUCCIÓN EN LA INDUSTRIA ALIMENTARIA</nombre>
+            <semestres>
+              <sem1>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MATEMÁTICA APLICADA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPERACIONES UNITARIAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>QUÍMICA APLICADA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLANEAMIENTO Y CONTROL DE LA PRODUCCIÓN </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE FRUTAS, HORTALIZAS Y LEGUMBRES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE PRODUCTOS LÁCTEOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE  PRODUCTOS CÁRNICOS E HIDROBIOLÓGICOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE GRANOS, CEREALES Y TUBERCULOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>BIOQUÍMICA APLICADA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ANÁLISIS DE ALIMENTOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+              <sem3>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MICROBIOLOGÍA APLICADA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>REFRIGERACIÓN Y CONGELACIÓN DE ALIMENTOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>HIGIENE Y MANIPULACIÓN DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MAQUINARIAS Y EQUIPOS DE PROCESAMIENTO DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ÉTICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem3>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>ENVASADO Y EMBALADO DE ALIMENTOS</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DEL ENVASADO Y EMBALADO DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>GESTION DE ENVASES, EMPAQUES Y EMBALAJES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>EQUIPOS DE ENVASADO, EMBALADO Y ETIQUETADO DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>EMPAQUE Y EMBALAJE DE PRODUCTOS ALIMENTICIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONSERVACION Y ALMACENAMIENTO DE ALIMENTOS.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>LOGÍSTICA DE PRODUCTOS TERMINADOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE INNOVACIÓN TECNOLÓGICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod3>
+          <mod4>
+            <nombre>CONTROL PARA EL ASEGURAMIENTO DE LA CALIDAD DE ALIMENTOS</nombre>
+            <semestres>
+              <sem1>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE CALIDAD DE MATERIA PRIMA E INSUMOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE PARÁMETROS DEL PROCESO PRODUCTIVO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CALIBRACION DE EQUIPOS DE MEDIDA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMAS DE GESTION DE CALIDAD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INSPECCIÓN Y MUESTREO DE ALIMENTOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INNOVACIÓN TECNOLÓGICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod4>
+        </modulos>
+      </plan1>
+    </planes_estudio>
+  </p3>
+  <p4>
+    <codigo>MA</codigo>
+    <nombre>MECATRONICA AUTOMOTRIZ</nombre>
+    <planes_estudio>
+      <plan1>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <perfil_egresado>El Profesional Técnico de Mecatrónica Automotriz está en la capacidad de realizar el diagnóstico, mantenimiento y reparación de los diferentes mecanismos y sistemas del vehículo automotor; según especificaciones técnicas del fabricante. Asimismo, tiene la habilidad de comunicarse con fluidez y seguridad, redactar documentos técnicos e interpretar manuales y catálogos en inglés, utilizando las herramientas informáticas.Practica actividades para el bienestar integral desarrollando valores, disciplina y actividades colaborativas. Está preparado para emprender su propio proyecto o negocio, siendo capaz de resolver situaciones complejas evaluando posibles soluciones y teniendo en cuenta la preservación y conservación del medio ambiente. Así también está preparado para laborar en las entidades públicas y privadas del sector automotriz, logrando integrarse de manera asertiva, estableciendo relaciones de respeto y justicia con los demás, lo que hace de él, un líder que busca el bienestar de su equipo y de la empresa.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>MANTENIMIENTO PROGRAMADO Y REPARACIÓN DE LOS SISTEMAS DE CONTROL DEL VEHÍCULO</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>DIBUJO MECÁNICO CAD  AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANTENIMIENTO AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MECÁNICA DE TALLER AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE SUSPENSIÓN</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SEGURIDAD LABORAL </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>HIDRAULICA Y NEUMÁTICA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CÁLCULOS APLICADOS A LOS SISTEMAS DE SUSPENSIÓN, DIRECCIÓN Y FRENOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE DIRECCIÓN</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE FRENOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTURA FÍSICA Y DEPORTIVA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA ELÉCTRICO Y ELECTRÓNICO AUTOMOTRIZ</nombre>
+            <semestres>
+              <sem1>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SISTEMAS DE LUCES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE CARGA Y ARRANQUE</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE ENCENDIDO AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE IMPLEMENTOS Y CONFORT.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLES PARA LA COMUNICACIÒN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA DE TRANSMISIÓN.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE TRANSMISIÓN AUTOMÁTICA Y TRANSFERENCIA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MECANISMO DIFERENCIAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CÁLCULOS APLICADOS A LA TRANSMISIÓN</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE TRANSMISIÓN MANUAL </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTURA AMBIENTAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod3>
+          <mod4>
+            <nombre>MANTENIMIENTO Y REPARACIÓN DE MOTORES DE COMBUSTIÓN INTERNA Y SISTEMAS ELECTRÓNICOS.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MOTORES DE COMBUSTIÓN INTERNA OTTO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INYECCIÓN ELECTRÓNICA OTTO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CÁLCULOS APLICADOS AL MOTOR DE COMBUSTIÓN INTERNO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>AFINAMIENTO ELECTRÓNICO DE MCI</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MOTORES DE COMBUSTIÓN INTERNA DIESEL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INYECCIÓN ELECTRÓNICA DIESEL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>RECTIFICACIONES AUTOMOTRICES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONVERSIÓN A COMBUSTIBLES ALTERNOS A GAS GLP Y GNV</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS Y FINANCIAMIENTO</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod4>
+        </modulos>
+      </plan1>
+      <plan2>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <perfil_egresado>El Profesional Técnico de Mecatrónica Automotriz está en la capacidad de realizar el diagnóstico, mantenimiento y reparación de los diferentes mecanismos y sistemas del vehículo automotor; según especificaciones técnicas del fabricante. Asimismo, tiene la habilidad de comunicarse con fluidez y seguridad, redactar documentos técnicos e interpretar manuales y catálogos en inglés, utilizando las herramientas informáticas. Practica actividades para el bienestar integral desarrollando valores, disciplina y actividades colaborativas. Está preparado para emprender su propio proyecto o negocio, siendo capaz de resolver situaciones complejas evaluando posibles soluciones y teniendo en cuenta la preservación, emprender e innovar procesos de productos o servicios.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>MANTENIMIENTO DE VEHÍCULOS CONVENCIONALES Y CON ASISTENCIA ELECTRÓNICA.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MANTENIMIENTO AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MECÁNICA DE TALLER Y METROLOGÍA AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANTENIMIENTO PREVENTIVO DE LA SUSPENSIÓN, DIRECCION Y FRENOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SEGURIDAD LABORAL </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANTENIMIENTO PREVENTIVO DEL SISTEMA ELECTRICO </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>DIBUJO MECÁNICO CAD  AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>HIDRAULICA Y NEUMÁTICA	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CÁLCULOS APLICADOS A LOS SISTEMAS DE SUSPENSIÓN, DIRECCIÓN Y FRENOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA DE SUSPENSIÓN Y DIRECCIÓN CON ASISTENCIA ELECTRÓNICA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA DE FRENOS CONVENCIONAL Y CON ASISTENCIA ELECTRÓNICA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y  PRODUCCIÓN DE TEXTOS </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMATICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>MANTENIMIENTO DE SISTEMAS ELECTRÍCOS Y ELECTRÓNICOS AUTOMOTRICES.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SISTEMAS DE LUCES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE CARGA Y ARRANQUE</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE ENCENDIDO AUTOMOTRIZ CON ASISTENCIA ELECTRÓNICA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE IMPLEMENTOS, SEGURIDAD Y CONFORT	</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>DIBUJO ELECTRICO Y ELECTRÓNICO AUTOMOTRIZ</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPORTAMIENTO ÉTICO</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNCACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>MANTENIMIENTO DEL SISTEMA DE TRANSMISIÓN DE VEHÍCULOS CON ASISTENCIA ELECTRÓNICA.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE TRANSMISIÓN AUTOMÁTICA Y TRANSFERENCIA.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MECANISMO DIFERENCIAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MECANISMO DE EMBRAGUE Y CAJA DE VELOCIDADES MANUAL </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRESIÓN Y REDACCIÓN EN INGLÉS	</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ESTRATEGIAS PARA SOLUCIÓN DE PROBLEMAS </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod3>
+          <mod4>
+            <nombre>MANTENIMIENTO DE MOTORES DE COMBUSTIÓN INTERNA CON ASISTENCIA ELECTRÓNICA.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MOTORES DE COMBUSTIÓN INTERNA OTTO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INYECCIÓN ELECTRÓNICA OTTO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA CAN BUS Y UNIDADES DE CONTROL ELECTRÓNICO </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CÁLCULOS APLICADOS AL MOTOR DE COMBUSTIÓN INTERNO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPORTUNIDAD DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE INNOVACIÓN TECNOLÓGICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MOTORES DE COMBUSTIÓN INTERNA DIESEL CON ASISTENCIA ELECTRÓNICA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMA DE INYECCIÓN DIESEL CON GESTIÓN ELECTRÓNICA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>AFINAMIENTO ELECTRÓNICO DE MCI</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONVERSIÓN A COMBUSTIBLES ALTERNOS A GAS GLP Y GNV</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROYECTO DE INNOVACIÓN TECNOLÓGICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod4>
+        </modulos>
+      </plan2>
+    </planes_estudio>
+  </p4>
+  <p5>
+    <codigo>PA</codigo>
+    <nombre>PRODUCCIÓN AGROPECUARIA</nombre>
+    <planes_estudio>
+      <plan1>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <perfil_egresado>El profesional técnico de producción agropecuaria, es competente para gestionar y desarrollar una explotación agropecuaria familiar y/o empresarial de manera sostenible, de acuerdo a la vocación productiva y características del entorno  con énfasis en la innovación, así como su comercialización con valor agregado; capaz de abordar situaciones y resolver problemas relacionado a su actividad y la organización, interactuando de manera colaborativa a través de una comunicación efectiva, el uso del idioma inglés, las tecnologías de la información y comunicación.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>GESTIÓN DE LA PRODUCCIÓN DE CULTIVOS</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MANEJO Y CONSERVACIÓN DE SUELOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>BOTÁNICA Y FISIOLOGÍA VEGETAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TOPOGRAFÍA AGRÍCOLA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTIVO DE HORTALIZAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTIVO DE LEGUMINOSAS Y GRANOS ANDINOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE PASTOS Y FORRAJES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES DE INTERNET</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MECANIZACIÓN AGRÍCOLA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPERACIÓN DE SISTEMAS DE RIEGO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROPAGACIÓN DE PLANTAS EN VIVEROS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTIVO DE RAÍCES Y TUBEROSAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTIVO DE FRUTALES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>GESTIÓN DE LA PRODUCCIÓN PECUARIA</nombre>
+            <semestres>
+              <sem1>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>ANATOMÍA Y FISIOLOGÍA ANIMAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INSTALACIONES PARA LA CRIANZA ANIMAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>NUTRICIÓN Y ALIMENTACIÓN ANIMAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TÉCNICAS DE MEJORAMIENTO ANIMAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE CUYES Y CONEJOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE INNOVACIÓN TECNOLÓGICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE AVES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE VACUNOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE PORCINOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE OVINOS, CAPRINOS Y CAMÉLIDOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CRIANZA DE ABEJAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INNOVACIÓN TECNOLÓGICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>PREVENCIÓN Y MANEJO SANITARIO Y FITOSANITARIO</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE ENFERMEDADES METABÓLICAS E INFECCIOSAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE ENFERMEDADES PARASITARIAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANEJO INTEGRADO DE PLAGAS AGRÍCOLAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANEJO Y CONTROL DE ENFERMEDADES AGRÍCOLAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPORTAMIENTO ÉTICO</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod3>
+          <mod4>
+            <nombre>APROVECHAMIENTO Y MERCADEO DE PRODUCTOS AGROPECUARIOS</nombre>
+            <semestres>
+              <sem1>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>MANEJO POS COSECHA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO PRIMARIO DE PRODUCTOS AGRÍCOLAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO PRIMARIO DE PRODUCTOS PECUARIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE CALIDAD DE PRODUCTOS AGROPECUARIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE EXPLOTACIÓN AGROPECUARIA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MARKETING DE PRODUCTOS AGROPECUARIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod4>
+        </modulos>
+      </plan1>
+      <plan2>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <perfil_egresado>El profesional técnico del Programa de Estudios de Producción Agropecuaria es competente en gestionar procesos de producción agrícola y pecuaria, aplicando técnicas agroecológicas y buenas prácticas agropecuarias, para obtener productos de calidad destinados a la comercialización y/o transformación. Supervisa la ejecución del plan operativo agrícola y/o pecuario de acuerdo con la unidad productiva, implementando la infraestructura productiva agrícola /pecuaria de acuerdo con el plan de producción, realizando la instalación y preparación del terreno de acuerdo al tipo de cultivo, requerimientos del mercado, supervisando el cumplimiento de los procesos de prevención y control de plagas/enfermedades agrícolas y pecuarios.   Asimismo, establece un seguimiento al procesamiento primario de productos agropecuarios  de acuerdo con requerimientos del mercado, optimizando el aprovechamiento primario de productos y subproductos agropecuarios, aplicando normas técnicas vigentes.  Establece el cumplimiento del proceso de almacenamiento de los productos agropecuarios de acuerdo a las normas, garantizando la adecuada presentación, conservación y comercialización de la producción primaria agrícola y/o pecuaria de acuerdo con los parámetros requeridos de los mercados de destino, dando cumplimiento a los procedimientos establecidos y normativa vigente.  Se comunica de manera efectiva, utiliza las tecnologías de la información y comunicación con dominio del idioma inglés, para interpretar y comunicar instrucciones que faciliten su actividad profesional. Asimismo, identifica nuevas oportunidades de negocios agropecuarios, mejora un proceso, producto o servicio. Se desempeña de manera colaborativa, analiza y plantea situaciones para resolver problemas relacionados a su ámbito laboral bajo principios éticos.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>PREPARACIÓN DEL TERRENO E IMPLEMENTACIÓN DE INFRAESTRUCTURA AGROPECUARIA</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>INSTALACIONES AGROPECUARIAS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPERACIÓN DE SISTEMAS DE RIEGO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TOPOGRAFÍA AGRÍCOLA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANEJO Y CONSERVACIÓN  DE SUELOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre> MECANIZACIÓN AGRÍCOLA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>1</horas_semanales>
+                    <horas_mensuales>4</horas_mensuales>
+                    <horas_totales_semestre>18</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>SUPERVISIÓN Y EJECUCIÓN DEL PLAN OPERATIVO DE LOS PROCESOS PRODUCTIVOS AGROPECUARIOS</nombre>
+            <semestres>
+              <sem1>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE PASTOS Y FORRAJES </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE  CUYES Y CONEJOS.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>HORTICULTURA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>RAÍCES Y TUBEROSAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FORMULACIÓN DE RACIONES.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE EXPLOTACIÓN AGROPECUARIA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE AVES.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN APÍCOLA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE ENFERMEDADES PARASITARIAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROPAGACIÓN DE PLANTAS EN VIVEROS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CULTIVO DE CEREALES Y LEGUMINOSAS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TÉCNICAS DE MEJORAMIENTO ANIMAL</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre> RESOLUCIÓN DE PROBLEMAS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+              <sem3>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE  VACUNOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE  PORCINOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PRODUCCIÓN DE  OVINOS,CAPRINOS Y CAMÉLIDOS SUDAMERICANOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE ENFERMEDADES INFECCIOSAS Y METABÓLICAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre> MANEJO INTEGRADO DE PLAGAS Y ENFERMEDADES AGRÍCOLAS.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FRUTICULTURA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPORTAMIENTO ÉTICO</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem3>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>PROCESAMIENTO PRIMARIO Y APROVECHAMIENTO DE PRODUCTOS AGROPECUARIOS.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO PRIMARIO DE PRODUCTOS AGRÍCOLAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESOS PRIMARIOS DE PRODUCTOS PECUARIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MANEJO DE POSCOSECHA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONTROL DE CALIDAD DE PRODUCTOS AGROPECUARIOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APROVECHAMIENTO DE PRODUCTOS PECUARIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE INNOVACIÓN TECNOLÓGICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod3>
+          <mod4>
+            <nombre>ALMACENAMIENTO Y COMERCIALIZACIÓN DE LA PRODUCCIÓN AGROPECUARIA</nombre>
+            <semestres>
+              <sem1>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>COMERCIALIZACIÓN DE LA PRODUCCIÓN AGROPECUARIA.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MARKETING AGROPECUARIO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>TÉCNICAS DE ALMACENAMIENTO.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>LOGÍSTICA EN ALMACENES AGROPECUARIOS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CADENAS PRODUCTIVAS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INNOVACIÓN TECNOLÓGICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod4>
+        </modulos>
+      </plan2>
+    </planes_estudio>
+  </p5>
+  <p6>
+    <codigo>IAB</codigo>
+    <nombre>INDUSTRIAS DE ALIMENTOS Y BEBIDAS</nombre>
+    <planes_estudio>
+      <plan1>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <perfil_egresado>El profesional técnico del  programa de estudios de Industrias de Alimentos y Bebidas, es competente en el manejo de la materia prima e insumos como en la recepción y acondicionamiento,  realiza el proceso de mezclado, tratamiento térmico, operaciones de eliminación de agua, separación y hace el uso de la biotecnología para los procesos de producción de alimentos y bebidas,  garantizando la inocuidad a través de la implementación de sistemas de gestión de calidad en un marco ético. Así mismo, ejecuta el envasado y la protección de los alimentos y bebidas. Interactúa de manera colaborativa en su entorno laboral con una comunicación efectiva y manejo del idioma inglés para interpretar y comunicar instrucciones vinculados a su formación, utiliza las tecnologías de la información y comunicación, con capacidad de solucionar  problemas de su campo laboral a través de la  innovación y emprendimiento que conlleven a la mejora continua, promoviendo el cuidado del medio ambiente.</perfil_egresado>
+        <modulos>
+          <mod1>
+            <nombre>RECEPCIÓN, ACONDICIONAMIENTO Y MEZCLADO DE LA MATERIA PRIMA E INSUMOS.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>I</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>RECEPCIÓN DE MATERIAS PRIMAS E INSUMOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>BUENAS PRÁCTICAS DE MANUFACTURA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>QUÍMICA APLICADA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MAQUINARIA Y EQUIPOS EN LA RECEPCIÓN Y CLASIFICACIÓN DE LA MATERIA PRIMA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ALMACENAMIENTO DE MATERIAS PRIMAS E INSUMOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>APLICACIONES EN INTERNET</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>II</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SELECCIÓN Y CLASIFICACIÓN DE LAS MATERIAS PRIMAS </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ACONDICIONAMIENTO DE LAS MATERIAS PRIMAS PARA EL PROCESO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>HIGIENE EN LA INDUSTRIA ALIMENTARIA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESO PARA MEZCLADO Y HOMOGENIZADO</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>BIOQUÍMICA DE LOS ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INTERPRETACIÓN Y PRODUCCIÓN TEXTOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OFIMÁTICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod1>
+          <mod2>
+            <nombre>TRATAMIENTO TÉRMICO, OPERACIONES DE ELIMINACIÓN DE AGUA Y SEPARACIÓN EN EL PROCESAMIENTO DE ALIMENTOS.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>III</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE FRUTAS Y HORTALIZAS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre> PROCESOS TÉRMICOS EN PRODUCTOS CÁRNICOS E HIDROBIOLÓGICOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLANIFICACIÓN Y ORGANIZACIÓN DE LA PRODUCCIÓN DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MAQUINARIAS Y EQUIPOS PARA LA SEPARACIÓN Y ELIMINACIÓN DE AGUA.</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>MICROBIOLOGÍA DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ESTRATEGIAS PARA LA RESOLUCIÓN DE PROBLEMAS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+              <sem2>
+                <nombre>IV</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE PRODUCTOS DE PANADERÍA Y PASTELERÍA</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPERACIONES DE ELIMINACIÓN DE AGUA EN PRODUCTOS VEGETALES Y  AZUCARES</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPERACIONES DE SEPARACIÓN DE LOS ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ANÁLISIS DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>5</horas_semanales>
+                    <horas_mensuales>20</horas_mensuales>
+                    <horas_totales_semestre>90</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>COMPORTAMIENTO ÉTICO</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem2>
+            </semestres>
+          </mod2>
+          <mod3>
+            <nombre>BIOTECNOLOGÍA Y ENVASADO EN EL PROCESAMIENTO DE ALIMENTOS.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>V</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE PRODUCTOS LÁCTEOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>4</horas_semanales>
+                    <horas_mensuales>16</horas_mensuales>
+                    <horas_totales_semestre>72</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PROCESAMIENTO DE PRODUCTOS FERMENTADOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ENVASADO DE PRODUCTOS ALIMENTICIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>ETIQUETADO, ROTULADO Y DESPACHO DE LOS PRODUCTOS ALIMENTARIOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre> ALMACENAMIENTO DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>EMPACADO Y EMBALADO DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>FUNDAMENTOS DE INNOVACIÓN TECNOLÓGICA</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod3>
+          <mod4>
+            <nombre>ASEGURAMIENTO DE LA CALIDAD.</nombre>
+            <semestres>
+              <sem1>
+                <nombre>VI</nombre>
+                <unidades_didacticas>
+                  <unidad_didactica>
+                    <nombre>SISTEMAS HACCP</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>SISTEMAS DE GESTIÓN DE LA CALIDAD</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>EVALUACIÓN SENSORIAL DE ALIMENTOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>CONTROL ESTADISTICO DE  PROCESOS</nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>NUTRICIÓN HUMANA </nombre>
+                    <tipo>ESPECIALIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>INNOVACIÓN TECNOLÓGICA </nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>3</horas_semanales>
+                    <horas_mensuales>12</horas_mensuales>
+                    <horas_totales_semestre>54</horas_totales_semestre>
+                  </unidad_didactica>
+                  <unidad_didactica>
+                    <nombre>PLAN DE NEGOCIOS</nombre>
+                    <tipo>EMPLEABILIDAD</tipo>
+                    <horas_semanales>2</horas_semanales>
+                    <horas_mensuales>8</horas_mensuales>
+                    <horas_totales_semestre>36</horas_totales_semestre>
+                  </unidad_didactica>
+                </unidades_didacticas>
+              </sem1>
+            </semestres>
+          </mod4>
+        </modulos>
+      </plan1>
+    </planes_estudio>
+  </p6>
+</programas_estudio>
