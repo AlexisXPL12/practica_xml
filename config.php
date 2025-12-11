@@ -23,7 +23,7 @@ if ($resultProgramas->num_rows > 0) {
         $programaNode->appendChild($xml->createElement('nombre', $programa['nombre']));
 
         // Consultar planes de estudio asociados al programa
-        $queryPlanes = "SELECT id, nombre, resolucion, perfil_egresado FROM sigi_planes_estudio WHERE id_programa_estudios = " . $programa['id'];
+        $queryPlanes = "SELECT id, nombre, resolucion, fecha_registro, perfil_egresado FROM sigi_planes_estudio WHERE id_programa_estudios = " . $programa['id'];
         $resultPlanes = $conn->query($queryPlanes);
 
         if ($resultPlanes->num_rows > 0) {
@@ -33,10 +33,11 @@ if ($resultProgramas->num_rows > 0) {
                 $planNode = $xml->createElement('plan_' . $plan['id']);
                 $planNode->appendChild($xml->createElement('nombre', $plan['nombre']));
                 $planNode->appendChild($xml->createElement('resolucion', $plan['resolucion']));
+                $planNode->appendChild($xml->createElement('fecha_registro', $plan['fecha_registro']));
                 $planNode->appendChild($xml->createElement('perfil_egresado', $plan['perfil_egresado']));
 
                 // Consultar módulos formativos asociados al plan
-                $queryModulos = "SELECT id, descripcion FROM sigi_modulo_formativo WHERE id_plan_estudio = " . $plan['id'] . " ORDER BY nro_modulo";
+                $queryModulos = "SELECT id, descripcion, nro_modulo FROM sigi_modulo_formativo WHERE id_plan_estudio = " . $plan['id'] . " ORDER BY nro_modulo";
                 $resultModulos = $conn->query($queryModulos);
 
                 if ($resultModulos->num_rows > 0) {
@@ -45,6 +46,7 @@ if ($resultProgramas->num_rows > 0) {
                         // Nodo <modulo_$id>
                         $moduloNode = $xml->createElement('modulo_' . $modulo['id']);
                         $moduloNode->appendChild($xml->createElement('descripcion', $modulo['descripcion']));
+                        $moduloNode->appendChild($xml->createElement('nro_modulo', $modulo['nro_modulo']));
 
                         // Consultar semestres asociados al módulo
                         $querySemestres = "SELECT id, descripcion FROM sigi_semestre WHERE id_modulo_formativo = " . $modulo['id'] . " ORDER BY descripcion";

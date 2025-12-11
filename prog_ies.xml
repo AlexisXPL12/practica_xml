@@ -7,10 +7,12 @@
       <plan_1>
         <nombre>2021</nombre>
         <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:58:16</fecha_registro>
         <perfil_egresado>El Profesional Técnico de Diseño y Programación Web, cuenta con habilidades para diseñar y desarrollar proyectos Web en medios digitales y multimediales. Propone soluciones creativas e innovadoras que respondan a las necesidades y requerimientos del cliente y a las exigencias del mercado laboral, así como coordinar la implementación de proyectos Web y posicionamiento SEO, aplicando estándares de seguridad. También, se desempeña con responsabilidad, eficiencia y valores orientados hacia la mejora continua.  Destaca por contar con habilidades para la innovación y generar buenas prácticas en la empresa orientadas al trabajo colaborativo, efectivo y ético. Se comunica de manera efectiva en español y en inglés en contextos sociales y empresariales. Además, utiliza herramientas informáticas que le permiten optimizar procesos de trabajo en forma individual y colaborativo , y la toma de decisiones; poniendo en evidencia actitudes para la resolución de problemas.</perfil_egresado>
         <modulos>
           <modulo_1>
             <descripcion>ANALISIS Y DISEÑO DE SISTEMAS WEB</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_1>
                 <descripcion>I</descripcion>
@@ -152,6 +154,7 @@
           </modulo_1>
           <modulo_2>
             <descripcion>DESARROLLO DE APLICACIONES WEB</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_3>
                 <descripcion>III</descripcion>
@@ -266,6 +269,7 @@
           </modulo_2>
           <modulo_3>
             <descripcion>DISEÑO DE SERVICIOS WEB</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_5>
                 <descripcion>V</descripcion>
@@ -398,10 +402,12 @@
       <plan_2>
         <nombre>2021</nombre>
         <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:58:32</fecha_registro>
         <perfil_egresado>Profesional técnico de nivel superior, capacitado para implementar los cuidados de enfermería centrado en la persona, brindando la atención integral a la persona, familia y comunidad en los diferentes niveles de atención y prevención a lo largo de su ciclo vital, en un rol propio o de colaboración en el equipo multidisciplinario tomando en cuenta las normas vigentes y la ética profesional; es capaz de abordar  situaciones y resolver problemas relacionados a su actividad y de la organización, interactuando a través de una comunicación efectiva, el uso del idioma inglés, quechua y las tecnologías de la información y comunicación, considerando su entorno intercultural.</perfil_egresado>
         <modulos>
           <modulo_4>
             <descripcion>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_7>
                 <descripcion>I</descripcion>
@@ -570,6 +576,7 @@
           </modulo_4>
           <modulo_5>
             <descripcion>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_9>
                 <descripcion>III</descripcion>
@@ -693,6 +700,7 @@
           </modulo_5>
           <modulo_6>
             <descripcion>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_11>
                 <descripcion>V</descripcion>
@@ -792,10 +800,12 @@
       <plan_6>
         <nombre>2025</nombre>
         <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 08:59:50</fecha_registro>
         <perfil_egresado>El profesional técnico en Enfermería Tecnica, es competente para brindar atención integral a la persona, familia y comunidad,  en actividades de  promoción y prevención de la salud, en diferentes etapas de la vida teniendo en cuenta las necesidades básicas de la salud y la normativa vigente; aplicando el enfoque  intercultural, de derechos y de género en diversos contextos. Se comunica de manera asertiva, efectiva, es capaz de abordar situaciones y resolver problemas  en su ambito laboral bajo principios éticos, se desempeña de manera colaborativa, mantiene una comunicación efectiva en el idioma quechua; evidencia dominio de las herramientas informaticas, identifica ideas de negocio,  es emprendedor e innovador y demostrando liderazgo.</perfil_egresado>
         <modulos>
           <modulo_23>
             <descripcion>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_37>
                 <descripcion>I</descripcion>
@@ -937,6 +947,7 @@
           </modulo_23>
           <modulo_24>
             <descripcion>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_39>
                 <descripcion>III</descripcion>
@@ -1060,6 +1071,7 @@
           </modulo_24>
           <modulo_25>
             <descripcion>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_41>
                 <descripcion>V</descripcion>
@@ -1192,10 +1204,12 @@
       <plan_3>
         <nombre>2021</nombre>
         <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:58:48</fecha_registro>
         <perfil_egresado>El profesional técnico de nivel superior del  programa de estudios de Industrias Alimentarias, es competente en el manejo de la materia prima, planificación y control de los procesos de producción de alimentos,  garantizando la inocuidad a través de la implementación de sistemas de gestión de calidad en un marco ético. Interactúa de manera colaborativa en su entorno laboral con una comunicación asertiva y manejo del idioma ingles para interpretar y comunicar instrucciones vinculados a su formación, así mismo utiliza las tecnologías de la información y comunicación, capaz de abordar problemas de su campo laboral a través de la  innovación y emprendimiento que conlleven a la mejora continua, promoviendo el cuidado del medio ambiente.</perfil_egresado>
         <modulos>
           <modulo_7>
             <descripcion>MANEJO DE LA MATERIA PRIMA</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_13>
                 <descripcion>I</descripcion>
@@ -1296,6 +1310,7 @@
           </modulo_7>
           <modulo_8>
             <descripcion>PROCESO DE LA PRODUCCIÓN EN LA INDUSTRIA ALIMENTARIA</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_14>
                 <descripcion>II</descripcion>
@@ -1487,6 +1502,7 @@
           </modulo_8>
           <modulo_9>
             <descripcion>ENVASADO Y EMBALADO DE ALIMENTOS</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_17>
                 <descripcion>V</descripcion>
@@ -1569,6 +1585,7 @@
           </modulo_9>
           <modulo_10>
             <descripcion>CONTROL PARA EL ASEGURAMIENTO DE LA CALIDAD DE ALIMENTOS</descripcion>
+            <nro_modulo>4</nro_modulo>
             <semestres>
               <semestre_18>
                 <descripcion>VI</descripcion>
@@ -1651,10 +1668,12 @@
       <plan_4>
         <nombre>2021</nombre>
         <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:59:05</fecha_registro>
         <perfil_egresado>El Profesional Técnico de Mecatrónica Automotriz está en la capacidad de realizar el diagnóstico, mantenimiento y reparación de los diferentes mecanismos y sistemas del vehículo automotor; según especificaciones técnicas del fabricante. Asimismo, tiene la habilidad de comunicarse con fluidez y seguridad, redactar documentos técnicos e interpretar manuales y catálogos en inglés, utilizando las herramientas informáticas.Practica actividades para el bienestar integral desarrollando valores, disciplina y actividades colaborativas. Está preparado para emprender su propio proyecto o negocio, siendo capaz de resolver situaciones complejas evaluando posibles soluciones y teniendo en cuenta la preservación y conservación del medio ambiente. Así también está preparado para laborar en las entidades públicas y privadas del sector automotriz, logrando integrarse de manera asertiva, estableciendo relaciones de respeto y justicia con los demás, lo que hace de él, un líder que busca el bienestar de su equipo y de la empresa.</perfil_egresado>
         <modulos>
           <modulo_11>
             <descripcion>MANTENIMIENTO PROGRAMADO Y REPARACIÓN DE LOS SISTEMAS DE CONTROL DEL VEHÍCULO</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_19>
                 <descripcion>I</descripcion>
@@ -1787,6 +1806,7 @@
           </modulo_11>
           <modulo_12>
             <descripcion>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA ELÉCTRICO Y ELECTRÓNICO AUTOMOTRIZ</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_21>
                 <descripcion>III</descripcion>
@@ -1851,6 +1871,7 @@
           </modulo_12>
           <modulo_13>
             <descripcion>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA DE TRANSMISIÓN.</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_22>
                 <descripcion>IV</descripcion>
@@ -1915,6 +1936,7 @@
           </modulo_13>
           <modulo_14>
             <descripcion>MANTENIMIENTO Y REPARACIÓN DE MOTORES DE COMBUSTIÓN INTERNA Y SISTEMAS ELECTRÓNICOS.</descripcion>
+            <nro_modulo>4</nro_modulo>
             <semestres>
               <semestre_23>
                 <descripcion>V</descripcion>
@@ -2023,10 +2045,12 @@
       <plan_8>
         <nombre>2025</nombre>
         <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 09:00:30</fecha_registro>
         <perfil_egresado>El Profesional Técnico de Mecatrónica Automotriz está en la capacidad de realizar el diagnóstico, mantenimiento y reparación de los diferentes mecanismos y sistemas del vehículo automotor; según especificaciones técnicas del fabricante. Asimismo, tiene la habilidad de comunicarse con fluidez y seguridad, redactar documentos técnicos e interpretar manuales y catálogos en inglés, utilizando las herramientas informáticas. Practica actividades para el bienestar integral desarrollando valores, disciplina y actividades colaborativas. Está preparado para emprender su propio proyecto o negocio, siendo capaz de resolver situaciones complejas evaluando posibles soluciones y teniendo en cuenta la preservación, emprender e innovar procesos de productos o servicios.</perfil_egresado>
         <modulos>
           <modulo_30>
             <descripcion>MANTENIMIENTO DE VEHÍCULOS CONVENCIONALES Y CON ASISTENCIA ELECTRÓNICA.</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_49>
                 <descripcion>I</descripcion>
@@ -2168,6 +2192,7 @@
           </modulo_30>
           <modulo_31>
             <descripcion>MANTENIMIENTO DE SISTEMAS ELECTRÍCOS Y ELECTRÓNICOS AUTOMOTRICES.</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_51>
                 <descripcion>III</descripcion>
@@ -2241,6 +2266,7 @@
           </modulo_31>
           <modulo_32>
             <descripcion>MANTENIMIENTO DEL SISTEMA DE TRANSMISIÓN DE VEHÍCULOS CON ASISTENCIA ELECTRÓNICA.</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_52>
                 <descripcion>IV</descripcion>
@@ -2296,6 +2322,7 @@
           </modulo_32>
           <modulo_33>
             <descripcion>MANTENIMIENTO DE MOTORES DE COMBUSTIÓN INTERNA CON ASISTENCIA ELECTRÓNICA.</descripcion>
+            <nro_modulo>4</nro_modulo>
             <semestres>
               <semestre_53>
                 <descripcion>V</descripcion>
@@ -2428,10 +2455,12 @@
       <plan_5>
         <nombre>2021</nombre>
         <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:59:23</fecha_registro>
         <perfil_egresado>El profesional técnico de producción agropecuaria, es competente para gestionar y desarrollar una explotación agropecuaria familiar y/o empresarial de manera sostenible, de acuerdo a la vocación productiva y características del entorno  con énfasis en la innovación, así como su comercialización con valor agregado; capaz de abordar situaciones y resolver problemas relacionado a su actividad y la organización, interactuando de manera colaborativa a través de una comunicación efectiva, el uso del idioma inglés, las tecnologías de la información y comunicación.</perfil_egresado>
         <modulos>
           <modulo_15>
             <descripcion>GESTIÓN DE LA PRODUCCIÓN DE CULTIVOS</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_25>
                 <descripcion>I</descripcion>
@@ -2582,6 +2611,7 @@
           </modulo_15>
           <modulo_16>
             <descripcion>GESTIÓN DE LA PRODUCCIÓN PECUARIA</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_27>
                 <descripcion>III</descripcion>
@@ -2723,6 +2753,7 @@
           </modulo_16>
           <modulo_17>
             <descripcion>PREVENCIÓN Y MANEJO SANITARIO Y FITOSANITARIO</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_29>
                 <descripcion>V</descripcion>
@@ -2787,6 +2818,7 @@
           </modulo_17>
           <modulo_18>
             <descripcion>APROVECHAMIENTO Y MERCADEO DE PRODUCTOS AGROPECUARIOS</descripcion>
+            <nro_modulo>4</nro_modulo>
             <semestres>
               <semestre_30>
                 <descripcion>VI</descripcion>
@@ -2872,10 +2904,12 @@
       <plan_9>
         <nombre>2025</nombre>
         <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 09:00:46</fecha_registro>
         <perfil_egresado>El profesional técnico del Programa de Estudios de Producción Agropecuaria es competente en gestionar procesos de producción agrícola y pecuaria, aplicando técnicas agroecológicas y buenas prácticas agropecuarias, para obtener productos de calidad destinados a la comercialización y/o transformación. Supervisa la ejecución del plan operativo agrícola y/o pecuario de acuerdo con la unidad productiva, implementando la infraestructura productiva agrícola /pecuaria de acuerdo con el plan de producción, realizando la instalación y preparación del terreno de acuerdo al tipo de cultivo, requerimientos del mercado, supervisando el cumplimiento de los procesos de prevención y control de plagas/enfermedades agrícolas y pecuarios.   Asimismo, establece un seguimiento al procesamiento primario de productos agropecuarios  de acuerdo con requerimientos del mercado, optimizando el aprovechamiento primario de productos y subproductos agropecuarios, aplicando normas técnicas vigentes.  Establece el cumplimiento del proceso de almacenamiento de los productos agropecuarios de acuerdo a las normas, garantizando la adecuada presentación, conservación y comercialización de la producción primaria agrícola y/o pecuaria de acuerdo con los parámetros requeridos de los mercados de destino, dando cumplimiento a los procedimientos establecidos y normativa vigente.  Se comunica de manera efectiva, utiliza las tecnologías de la información y comunicación con dominio del idioma inglés, para interpretar y comunicar instrucciones que faciliten su actividad profesional. Asimismo, identifica nuevas oportunidades de negocios agropecuarios, mejora un proceso, producto o servicio. Se desempeña de manera colaborativa, analiza y plantea situaciones para resolver problemas relacionados a su ámbito laboral bajo principios éticos.</perfil_egresado>
         <modulos>
           <modulo_26>
             <descripcion>PREPARACIÓN DEL TERRENO E IMPLEMENTACIÓN DE INFRAESTRUCTURA AGROPECUARIA</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_43>
                 <descripcion>I</descripcion>
@@ -2949,6 +2983,7 @@
           </modulo_26>
           <modulo_27>
             <descripcion>SUPERVISIÓN Y EJECUCIÓN DEL PLAN OPERATIVO DE LOS PROCESOS PRODUCTIVOS AGROPECUARIOS</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_44>
                 <descripcion>II</descripcion>
@@ -3176,6 +3211,7 @@
           </modulo_27>
           <modulo_28>
             <descripcion>PROCESAMIENTO PRIMARIO Y APROVECHAMIENTO DE PRODUCTOS AGROPECUARIOS.</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_47>
                 <descripcion>V</descripcion>
@@ -3249,6 +3285,7 @@
           </modulo_28>
           <modulo_29>
             <descripcion>ALMACENAMIENTO Y COMERCIALIZACIÓN DE LA PRODUCCIÓN AGROPECUARIA</descripcion>
+            <nro_modulo>4</nro_modulo>
             <semestres>
               <semestre_48>
                 <descripcion>VI</descripcion>
@@ -3331,10 +3368,12 @@
       <plan_7>
         <nombre>2025</nombre>
         <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 09:00:09</fecha_registro>
         <perfil_egresado>El profesional técnico del  programa de estudios de Industrias de Alimentos y Bebidas, es competente en el manejo de la materia prima e insumos como en la recepción y acondicionamiento,  realiza el proceso de mezclado, tratamiento térmico, operaciones de eliminación de agua, separación y hace el uso de la biotecnología para los procesos de producción de alimentos y bebidas,  garantizando la inocuidad a través de la implementación de sistemas de gestión de calidad en un marco ético. Así mismo, ejecuta el envasado y la protección de los alimentos y bebidas. Interactúa de manera colaborativa en su entorno laboral con una comunicación efectiva y manejo del idioma inglés para interpretar y comunicar instrucciones vinculados a su formación, utiliza las tecnologías de la información y comunicación, con capacidad de solucionar  problemas de su campo laboral a través de la  innovación y emprendimiento que conlleven a la mejora continua, promoviendo el cuidado del medio ambiente.</perfil_egresado>
         <modulos>
           <modulo_19>
             <descripcion>RECEPCIÓN, ACONDICIONAMIENTO Y MEZCLADO DE LA MATERIA PRIMA E INSUMOS.</descripcion>
+            <nro_modulo>1</nro_modulo>
             <semestres>
               <semestre_31>
                 <descripcion>I</descripcion>
@@ -3476,6 +3515,7 @@
           </modulo_19>
           <modulo_20>
             <descripcion>TRATAMIENTO TÉRMICO, OPERACIONES DE ELIMINACIÓN DE AGUA Y SEPARACIÓN EN EL PROCESAMIENTO DE ALIMENTOS.</descripcion>
+            <nro_modulo>2</nro_modulo>
             <semestres>
               <semestre_33>
                 <descripcion>III</descripcion>
@@ -3608,6 +3648,7 @@
           </modulo_20>
           <modulo_21>
             <descripcion>BIOTECNOLOGÍA Y ENVASADO EN EL PROCESAMIENTO DE ALIMENTOS.</descripcion>
+            <nro_modulo>3</nro_modulo>
             <semestres>
               <semestre_35>
                 <descripcion>V</descripcion>
@@ -3690,6 +3731,7 @@
           </modulo_21>
           <modulo_22>
             <descripcion>ASEGURAMIENTO DE LA CALIDAD.</descripcion>
+            <nro_modulo>4</nro_modulo>
             <semestres>
               <semestre_36>
                 <descripcion>VI</descripcion>

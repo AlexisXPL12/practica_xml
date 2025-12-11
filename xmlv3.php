@@ -36,6 +36,7 @@ $tablas = [
         id_programa_estudios INT NOT NULL,
         nombre VARCHAR(20) NOT NULL,
         resolucion VARCHAR(100) NOT NULL,
+        fecha_registro DATETIME,
         perfil_egresado VARCHAR(3000) NOT NULL,
         FOREIGN KEY (id_programa_estudios) REFERENCES sigi_programa_estudios(id)
     )",
@@ -76,88 +77,94 @@ foreach ($tablas as $sql) {
 }
 
 // Leer el archivo XML
-$xml = simplexml_load_file("prog_ies.xml");
+$xmlFile = "prog_ies.xml";
+if (!file_exists($xmlFile)) {
+    die("Error: El archivo XML '$xmlFile' no existe.");
+}
+
+$xml = simplexml_load_file($xmlFile);
 if ($xml === FALSE) {
-    die("Error: No se puede cargar el archivo XML");
+    die("Error: No se puede cargar el archivo XML. Verifica que el archivo esté bien formado.");
 }
 
 // Insertar programas de estudio
 foreach ($xml->children() as $programa) {
     $codigo = (string)$programa->codigo;
     $nombre = (string)$programa->nombre;
-    $tipo = (string)$programa->tipo ?? "Modular"; // Valor por defecto si no existe
 
-    $sql = "INSERT INTO sigi_programa_estudios (codigo, nombre, tipo) VALUES ('$codigo', '$nombre', '$tipo')";
+    $sql = "INSERT INTO sigi_programa_estudios (codigo, nombre, tipo) VALUES ('$codigo', '$nombre', 'Modular')";
     if ($conn->query($sql) === TRUE) {
         $id_programa = $conn->insert_id;
         echo "Programa de estudio '$nombre' insertado correctamente (ID: $id_programa).<br>";
-    } else {
-        die("Error al insertar programa de estudio: " . $conn->error);
-    }
 
-    // Insertar planes de estudio
-    foreach ($programa->planes_estudio->children() as $plan) {
-        $nombre_plan = (string)$plan->nombre;
-        $resolucion = (string)$plan->resolucion;
-        $perfil_egresado = $conn->real_escape_string((string)$plan->perfil_egresado);
+        // Insertar planes de estudio
+        foreach ($programa->planes_estudio->children() as $plan) {
+            $nombre_plan = (string)$plan->nombre;
+            $resolucion = (string)$plan->resolucion;
+            $fecha_registro = isset($plan->fecha_registro) ? (string)$plan->fecha_registro : date('Y-m-d H:i:s');
+            $perfil_egresado = $conn->real_escape_string((string)$plan->perfil_egresado);
 
-        $sql = "INSERT INTO sigi_planes_estudio (id_programa_estudios, nombre, resolucion, perfil_egresado)
-                VALUES ('$id_programa', '$nombre_plan', '$resolucion', '$perfil_egresado')";
-        if ($conn->query($sql) === TRUE) {
-            $id_plan = $conn->insert_id;
-            echo "&nbsp;&nbsp;Plan de estudio '$nombre_plan' insertado correctamente (ID: $id_plan).<br>";
-        } else {
-            die("Error al insertar plan de estudio: " . $conn->error);
-        }
-
-        // Insertar módulos formativos
-        foreach ($plan->modulos->children() as $modulo) {
-            $descripcion = (string)$modulo->descripcion;
-            $nro_modulo = (int)$modulo->nro_modulo ?? 1; // Valor por defecto si no existe
-
-            $sql = "INSERT INTO sigi_modulo_formativo (descripcion, nro_modulo, id_plan_estudio)
-                    VALUES ('$descripcion', '$nro_modulo', '$id_plan')";
+            $sql = "INSERT INTO sigi_planes_estudio (id_programa_estudios, nombre, resolucion, fecha_registro, perfil_egresado)
+                    VALUES ('$id_programa', '$nombre_plan', '$resolucion', '$fecha_registro', '$perfil_egresado')";
             if ($conn->query($sql) === TRUE) {
-                $id_modulo = $conn->insert_id;
-                echo "&nbsp;&nbsp;&nbsp;&nbsp;Módulo formativo '$descripcion' insertado correctamente (ID: $id_modulo).<br>";
-            } else {
-                die("Error al insertar módulo formativo: " . $conn->error);
-            }
+                $id_plan = $conn->insert_id;
+                echo "&nbsp;&nbsp;Plan de estudio '$nombre_plan' insertado correctamente (ID: $id_plan).<br>";
 
-            // Insertar semestres
-            foreach ($modulo->semestres->children() as $semestre) {
-                $descripcion_semestre = (string)$semestre->nombre;
+                // Insertar módulos formativos
+                foreach ($plan->modulos->children() as $modulo) {
+                    $descripcion = (string)$modulo->descripcion;
+                    $nro_modulo = (int)$modulo->nro_modulo;
 
-                $sql = "INSERT INTO sigi_semestre (descripcion, id_modulo_formativo)
-                        VALUES ('$descripcion_semestre', '$id_modulo')";
-                if ($conn->query($sql) === TRUE) {
-                    $id_semestre = $conn->insert_id;
-                    echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Semestre '$descripcion_semestre' insertado correctamente (ID: $id_semestre).<br>";
-                } else {
-                    die("Error al insertar semestre: " . $conn->error);
-                }
-
-                // Insertar unidades didácticas
-                foreach ($semestre->unidades_didacticas->children() as $unidad) {
-                    $nombre_unidad = (string)$unidad->nombre;
-                    $creditos_teorico = (int)$unidad->creditos_teorico;
-                    $creditos_practico = (int)$unidad->creditos_practico;
-                    $tipo = (string)$unidad->tipo;
-                    $orden = (int)$unidad->orden ?? 1; // Valor por defecto si no existe
-
-                    $sql = "INSERT INTO sigi_unidad_didactica (nombre, id_semestre, creditos_teorico, creditos_practico, tipo, orden)
-                            VALUES ('$nombre_unidad', '$id_semestre', '$creditos_teorico', '$creditos_practico', '$tipo', '$orden')";
+                    $sql = "INSERT INTO sigi_modulo_formativo (descripcion, nro_modulo, id_plan_estudio)
+                            VALUES ('$descripcion', '$nro_modulo', '$id_plan')";
                     if ($conn->query($sql) === TRUE) {
-                        echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unidad didáctica '$nombre_unidad' insertada correctamente.<br>";
+                        $id_modulo = $conn->insert_id;
+                        echo "&nbsp;&nbsp;&nbsp;&nbsp;Módulo formativo '$descripcion' insertado correctamente (ID: $id_modulo).<br>";
+
+                        // Insertar semestres
+                        foreach ($modulo->semestres->children() as $semestre) {
+                            $descripcion_semestre = (string)$semestre->nombre;
+
+                            $sql = "INSERT INTO sigi_semestre (descripcion, id_modulo_formativo)
+                                    VALUES ('$descripcion_semestre', '$id_modulo')";
+                            if ($conn->query($sql) === TRUE) {
+                                $id_semestre = $conn->insert_id;
+                                echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Semestre '$descripcion_semestre' insertado correctamente (ID: $id_semestre).<br>";
+
+                                // Insertar unidades didácticas
+                                foreach ($semestre->unidades_didacticas->children() as $unidad) {
+                                    $nombre_unidad = (string)$unidad->nombre;
+                                    $creditos_teorico = (int)$unidad->creditos_teorico;
+                                    $creditos_practico = (int)$unidad->creditos_practico;
+                                    $tipo = (string)$unidad->tipo;
+                                    $orden = isset($unidad->orden) ? (int)$unidad->orden : 1;
+
+                                    $sql = "INSERT INTO sigi_unidad_didactica (nombre, id_semestre, creditos_teorico, creditos_practico, tipo, orden)
+                                            VALUES ('$nombre_unidad', '$id_semestre', '$creditos_teorico', '$creditos_practico', '$tipo', '$orden')";
+                                    if ($conn->query($sql) === TRUE) {
+                                        echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unidad didáctica '$nombre_unidad' insertada correctamente.<br>";
+                                    } else {
+                                        echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Error al insertar unidad didáctica: " . $conn->error . "<br>";
+                                    }
+                                }
+                            } else {
+                                echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Error al insertar semestre: " . $conn->error . "<br>";
+                            }
+                        }
                     } else {
-                        die("Error al insertar unidad didáctica: " . $conn->error);
+                        echo "&nbsp;&nbsp;&nbsp;&nbsp;Error al insertar módulo formativo: " . $conn->error . "<br>";
                     }
                 }
+            } else {
+                echo "&nbsp;&nbsp;Error al insertar plan de estudio: " . $conn->error . "<br>";
             }
         }
+    } else {
+        echo "Error al insertar programa de estudio: " . $conn->error . "<br>";
     }
 }
 
-echo "<br>¡Proceso completado con éxito!";
+echo "<br>¡Proceso completado!";
 $conn->close();
 ?>
+
