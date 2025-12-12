@@ -1,9 +1,9 @@
 <?php
-// Configuración de la base de datos
+
 $servername = "localhost";
 $username = "root";
 $password = "root";
-$dbname = "sigi_huanta_nuevo";
+$dbname = "ies_huanta";
 
 // Crear conexión
 $conn = new mysqli($servername, $username, $password);
@@ -19,10 +19,10 @@ if ($conn->query($sql) === TRUE) {
     die("Error al crear la base de datos: " . $conn->error);
 }
 
-// Seleccionar la base de datos
+
 $conn->select_db($dbname);
 
-// Crear tablas si no existen
+
 $tablas = [
     "CREATE TABLE IF NOT EXISTS sigi_programa_estudios (
         id INT AUTO_INCREMENT PRIMARY KEY,
@@ -76,7 +76,7 @@ foreach ($tablas as $sql) {
     }
 }
 
-// Leer el archivo XML
+
 $xmlFile = "prog_ies.xml";
 if (!file_exists($xmlFile)) {
     die("Error: El archivo XML '$xmlFile' no existe.");
@@ -87,7 +87,7 @@ if ($xml === FALSE) {
     die("Error: No se puede cargar el archivo XML. Verifica que el archivo esté bien formado.");
 }
 
-// Insertar programas de estudio
+
 foreach ($xml->children() as $programa) {
     $codigo = (string)$programa->codigo;
     $nombre = (string)$programa->nombre;
@@ -123,7 +123,7 @@ foreach ($xml->children() as $programa) {
 
                         // Insertar semestres
                         foreach ($modulo->semestres->children() as $semestre) {
-                            $descripcion_semestre = (string)$semestre->nombre;
+                            $descripcion_semestre = (string)$semestre->descripcion;
 
                             $sql = "INSERT INTO sigi_semestre (descripcion, id_modulo_formativo)
                                     VALUES ('$descripcion_semestre', '$id_modulo')";
